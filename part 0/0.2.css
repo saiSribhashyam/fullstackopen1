@@ -1,0 +1,39 @@
+html{
+    font-size: 10px;
+    font-family: 'Open Sans',sans-serif;
+    background-image: url('https://www.koimoi.com/wp-content/new-galleries/2020/08/the-boys-season-2-review-001.jpg');
+          background-size: cover ;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: red;
+}
+p,li{
+    font-size: 15px;
+    line-height: 1.5;
+    letter-spacing: 0.8px;
+}
+html{
+    background-color: blue;
+}
+body{
+    width: 550px;
+    margin: 0 auto;
+    background-color: lightblue;
+    padding: 0 20px 20px 20px;
+    border: 7px solid yellow;
+}
+h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: rgb(250, 7, 47);
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+    
+  }
+
+       
